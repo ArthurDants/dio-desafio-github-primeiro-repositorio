@@ -1,0 +1,9 @@
+Introdução feita com sucesso sem erros.
+criar repositorios
+
+após baixar e modificar o repositorio do Github
+
+git status
+git add *
+git commit -m "msg"
+git push origin main
